@@ -1,2 +1,3 @@
-print("Olá mundo")
-print(input('Digite seu nome: '))
+
+nome = 'Adriano'
+print("Olá mundo {}".format(nome))
